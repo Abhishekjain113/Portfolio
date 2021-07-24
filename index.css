@@ -1,0 +1,83 @@
+   body{
+    margin:0;
+    padding:0;
+}
+
+li{
+    text-align:center;
+    padding-left:2%
+}
+#item1
+{
+text-align:center;
+}
+
+.header{
+    width: 100%;
+    height: auto;
+    padding-top:5%;
+    padding-bottom: 5%;
+}
+.progresscont{
+   margin-top:8%;
+    width:500px;
+    padding-bottom:3px;
+    padding-left: 3px;
+    background-color:white;
+    border-radius: 5px;
+   box-shadow: 5px  5px 5px; 
+}
+.titlepro
+{
+    text-align:center;
+    padding-top: 10px;
+}
+.progresscont .bar{
+    padding-left:10px;
+    padding-right: 10px;
+    margin:20px 0px;
+}
+
+.progresscont .bar .line{
+    position: relative;
+    height:10px;
+    width:100%;
+    background:lightgray;
+    box-shadow: 5px;
+    border-radius: 5px;
+}
+ .bar .line span{
+     height:100%;
+     width: 80%;
+     background-color:aqua;
+     border-radius: 10px;
+    position:absolute;
+}
+ .line.Java span{
+    width:50%;
+ }
+
+.about
+{   
+padding: 1%;
+margin: 5%;  
+box-shadow: 2px  2px 4px; 
+
+}
+#admove
+{
+    text-align:center;
+}
+.indro-me{
+    padding-left:4%;
+    padding-right:4%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    font-style: italic;
+}
+#log-eamvey{
+float: left;
+}
+.agin{
+    padding-left:5%;
+}
